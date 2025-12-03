@@ -1,0 +1,27 @@
+{
+  "name": "002---gerenciador-de-pedidos-de-lanchonete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberto-mazor/002---Gerenciador-de-Pedidos-de-Lanchonete.git"
+  },
+  "keywords": [],
+  "author": "Roberto Mazor",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/roberto-mazor/002---Gerenciador-de-Pedidos-de-Lanchonete/issues"
+  },
+  "homepage": "https://github.com/roberto-mazor/002---Gerenciador-de-Pedidos-de-Lanchonete#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
